@@ -53,8 +53,7 @@
 
 ## (1). **파이썬(Python)** - `pygame` 사용
 
-![image.png](attachment:d139e776-c3a3-4d97-bf99-1b2124521a09:image.png)
-
+![image](https://github.com/user-attachments/assets/ae2feb6e-ba68-48e4-9f0c-3326aa4f54df)
 [코드 보기](https://www.notion.so/1f47f052d951802a8f0cedc8e56bd3d9?pvs=21)
 
 ### ✔️ 장점
@@ -73,7 +72,7 @@
 
 ## (2). **자바(Java)** - `Swing` 기반 GUI
 
-![image.png](attachment:f637c468-3d82-456a-9538-126c1cc00903:image.png)
+![image](https://github.com/user-attachments/assets/480ef5ca-2e02-4de8-805c-5df619f5dd8a)
 
 [코드보기](https://www.notion.so/1f47f052d951802a8f0cedc8e56bd3d9?pvs=21)
 
@@ -93,8 +92,7 @@
 
 ## (3). **C 언어** - `graphics.h` 또는 `SDL` 등으로 구현
 
-![image.png](attachment:ee9f8db4-30b1-4a8b-bebd-c9e34e5d0a16:image.png)
-
+![image](https://github.com/user-attachments/assets/12942fb2-ca22-4cf0-83d6-c58ae6ee0288)
 [코드보기](https://www.notion.so/1f47f052d951802a8f0cedc8e56bd3d9?pvs=21)
 
 ### ✔️ 장점
