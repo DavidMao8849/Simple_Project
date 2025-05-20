@@ -558,8 +558,3 @@ int main() {
     }
     return 0;
 }
-```
-
-- [깃허브 주소 - Simple_Project](https://github.com/DavidMao8849/Simple_Project)
-
----
