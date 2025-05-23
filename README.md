@@ -1,5 +1,7 @@
+11주차 과제 
+
 # 📌 간단한 프로젝트 기획서
-인공지능과 언어 11주차 과제 - 프로젝트 기획
+
 ---
 
 ## 🗂️ 1. 프로젝트 개요
@@ -51,10 +53,11 @@
 
 ## 🛠️ 5. 언어별 비교 분석
 
-## (1). **파이썬(Python)** - `pygame` 사용
+### (1). **파이썬(Python)** - `pygame` 사용
 
-![image](https://github.com/user-attachments/assets/ae2feb6e-ba68-48e4-9f0c-3326aa4f54df)
-[코드 보기](https://www.notion.so/1f47f052d951802a8f0cedc8e56bd3d9?pvs=21)
+![image](https://github.com/user-attachments/assets/069f320c-9152-4a3a-ae87-6089a9e7432c)
+<br>
+[코드 보기](https://www.notion.so/1f97f052d95180a08e7ee436b587fde1?pvs=21)
 
 ### ✔️ 장점
 
@@ -70,11 +73,11 @@
 
 ---
 
-## (2). **자바(Java)** - `Swing` 기반 GUI
+### (2). **자바(Java)** - `Swing` 기반 GUI
 
-![image](https://github.com/user-attachments/assets/480ef5ca-2e02-4de8-805c-5df619f5dd8a)
-
-[코드보기](https://www.notion.so/1f47f052d951802a8f0cedc8e56bd3d9?pvs=21)
+![image](https://github.com/user-attachments/assets/3976c5fd-2c79-4e87-929d-6adc9dd1ed00)
+<br>
+[코드보기](https://www.notion.so/1f97f052d95180a08e7ee436b587fde1?pvs=21)
 
 ### ✔️ 장점
 
@@ -90,10 +93,11 @@
 
 ---
 
-## (3). **C 언어** - `graphics.h` 또는 `SDL` 등으로 구현
+### (3). **C 언어** - `graphics.h` 또는 `SDL` 등으로 구현
 
-![image](https://github.com/user-attachments/assets/12942fb2-ca22-4cf0-83d6-c58ae6ee0288)
-[코드보기](https://www.notion.so/1f47f052d951802a8f0cedc8e56bd3d9?pvs=21)
+![image](https://github.com/user-attachments/assets/d630cc8e-678b-46e1-a016-763d2f908a31)
+<br>
+[코드보기](https://www.notion.so/1f97f052d95180a08e7ee436b587fde1?pvs=21)
 
 ### ✔️ 장점
 
@@ -437,7 +441,7 @@ public class GamePanel extends JPanel implements KeyListener, ActionListener {
 }
 ```
 
-**C 언어 코드**
+## **C 언어 코드**
 
 ```c
 #include <stdio.h>
@@ -556,3 +560,4 @@ int main() {
     }
     return 0;
 }
+```
